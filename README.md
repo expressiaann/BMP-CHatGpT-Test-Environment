@@ -1,4 +1,4 @@
-# BMP-CHatGpT-Test-Environment
+# BMPgames ChatGpT Test Environment
 Rpg Mv Plugins Made using CHatgpt
 
 
