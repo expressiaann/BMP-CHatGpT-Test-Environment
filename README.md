@@ -6,7 +6,21 @@ Rpg Mv Plugins Made using CHatgpt
 Because People are asking to see what Chatgpt Can do in RpG Mv Plugins here is an Example. Test Environment . Use in your project at your own risk. Dont say its your own! give credit :)
 
 
+# TERMS OF USE FOR NON-COMMERCIAL AND COMMERCIAL
+Credit is bmpgames, Chatgpt
+Free to use, modify and distribute.
+Do not claim the Plugins as your own.
+Plugins can be edited/modified but can not be claimed as your own.
+Any additional terms in Plugin must be followed.
+All plugins are free to use for free and commercial games
+
+ADDITIONAL TERM AS OF AUGUST, 2016:
+
+Any of my plugins may be edited and redistributed as a completely new plugin. You can even add on your own terms onto the edited version. You just need to add "This plugin was created/modified from ORIGINAL PLUGIN NAME by bmpgames, Chatgpt, + link to github js of that plugin", ( in the help,credits or above terms, ect. ).
+
+
 Forum Post in Case you want to talk about this. 
+
 
 https://forums.rpgmakerweb.com/index.php?threads/what-do-you-think-of-users-using-chatgpt-to-make-plugins.156559/
 
